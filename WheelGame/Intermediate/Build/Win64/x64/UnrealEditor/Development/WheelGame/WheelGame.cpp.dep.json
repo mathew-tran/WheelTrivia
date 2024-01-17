@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mathe\\downloads\\wheelgame\\source\\wheelgame\\wheelgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mathe\\downloads\\wheelgame\\intermediate\\build\\win64\\x64\\wheelgameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\mathe\\downloads\\wheelgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wheelgame\\definitions.wheelgame.h",
+            "c:\\users\\mathe\\downloads\\wheelgame\\source\\wheelgame\\wheelgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
