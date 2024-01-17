@@ -1,11 +1,11 @@
-"C:\Users\mathe\Downloads\WheelGame\Source\WheelGame\WheelGame.cpp"
-/FI"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\WheelGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\Definitions.WheelGame.h"
-/Yu"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\WheelGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\WheelGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\WheelGame.cpp.obj"
-/sourceDependencies "C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\WheelGame.cpp.dep.json"
-@"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\WheelGame.Shared.rsp"
+"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Source\WheelGame\WheelGame.cpp"
+/FI"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\WheelGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\Definitions.WheelGame.h"
+/Yu"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\WheelGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\WheelGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\WheelGame.cpp.obj"
+/sourceDependencies "C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\WheelGame.cpp.dep.json"
+@"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\WheelGame.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

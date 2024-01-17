@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WheelGameModuleRules
-build_property.ProjectDir = C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\BuildRulesProjects\WheelGameModuleRules\
+build_property.ProjectDir = C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\BuildRulesProjects\WheelGameModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

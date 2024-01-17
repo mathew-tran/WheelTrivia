@@ -34,9 +34,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\WheelGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\WheelGame.cpp.obj"
-"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\Default.rc2.res"
+"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\WheelGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\WheelGame.cpp.obj"
+"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -66,7 +66,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\mathe\Downloads\WheelGame\Binaries\Win64\UnrealEditor-WheelGame.dll"
-/IMPLIB:"C:\Users\mathe\Downloads\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\UnrealEditor-WheelGame.sup.lib"
-/PDB:"C:\Users\mathe\Downloads\WheelGame\Binaries\Win64\UnrealEditor-WheelGame.pdb"
+/OUT:"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Binaries\Win64\UnrealEditor-WheelGame.dll"
+/IMPLIB:"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WheelGame\UnrealEditor-WheelGame.sup.lib"
+/PDB:"C:\Users\mathe\Downloads\WheelTrivia\WheelGame\Binaries\Win64\UnrealEditor-WheelGame.pdb"
 /ignore:4078
