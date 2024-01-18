@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "AGameMode.generated.h"
+#include "AWheelGameMode.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class WHEELGAME_API AAGameMode : public AGameModeBase
+class WHEELGAME_API AWheelGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 
