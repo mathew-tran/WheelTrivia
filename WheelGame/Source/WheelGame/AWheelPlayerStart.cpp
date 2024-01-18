@@ -5,7 +5,7 @@
 
 bool AWheelPlayerStart::IsAvailable()
 {
-    return ControllerReference == nullptr;
+    return IsValid(ControllerReference) == false;
 }
 
 void AWheelPlayerStart::SetOwningPlayer(AController* Controller)
