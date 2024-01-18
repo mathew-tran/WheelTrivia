@@ -12,5 +12,8 @@
 UCLASS()
 class WHEELGAME_API AAGameMode : public AGameModeBase
 {
-	GENERATED_BODY()	
+	GENERATED_BODY()
+
+public:
+	virtual AActor* ChoosePlayerStart_Implementation(AController* Player) override;
 };
