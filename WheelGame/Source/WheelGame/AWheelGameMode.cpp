@@ -6,6 +6,11 @@
 
 #include "AWheelPlayerStart.h"
 
+AWheelGameMode::AWheelGameMode()
+{
+
+}
+
 AActor* AWheelGameMode::ChoosePlayerStart_Implementation(AController* Player)
 {
     UWorld* World = GetWorld();

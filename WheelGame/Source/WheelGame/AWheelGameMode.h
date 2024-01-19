@@ -14,6 +14,7 @@ class WHEELGAME_API AWheelGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 
+	AWheelGameMode();
 public:
 	virtual AActor* ChoosePlayerStart_Implementation(AController* Player) override;
 };
