@@ -94,7 +94,11 @@
 				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Entry/BP_Pawn_Entry.uasset",
 				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Entry/UI/W_UI_Entry.uasset",
 				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Maps/Game.umap",
-				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_Pawn_Game.uasset"
+				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_Pawn_Game.uasset",
+				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_Controller_Game.uasset",
+				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_GameMode_Game.uasset",
+				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/UI/W_UI_Game.uasset",
+				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_GameState_Game.uasset"
 			]
 		}
 	]
