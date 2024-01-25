@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Trivia",
+			"Path": "..\\Source\\Trivia.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TriviaEditor",
+			"Path": "..\\Source\\TriviaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
