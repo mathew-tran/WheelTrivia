@@ -98,7 +98,8 @@
 				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_Controller_Game.uasset",
 				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_GameMode_Game.uasset",
 				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/UI/W_UI_Game.uasset",
-				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_GameState_Game.uasset"
+				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_GameState_Game.uasset",
+				"C:/Users/mathe/Downloads/WheelTrivia/Trivia/Content/Blueprints/Game/BP_PlayerState_Game.uasset"
 			]
 		}
 	]
